@@ -1,0 +1,12 @@
+.Productitem{
+    background-color: rgb(8, 11, 54);
+    height: 90px;
+    text-align: center;
+    border: 3px solid rgb(125, 0, 234);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 7px;
+    margin: 13px;
+}
