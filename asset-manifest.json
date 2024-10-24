@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Card_Job/static/css/main.e0534008.css",
+    "main.js": "/Card_Job/static/js/main.7672dcb1.js",
+    "index.html": "/Card_Job/index.html",
+    "main.e0534008.css.map": "/Card_Job/static/css/main.e0534008.css.map",
+    "main.7672dcb1.js.map": "/Card_Job/static/js/main.7672dcb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0534008.css",
+    "static/js/main.7672dcb1.js"
+  ]
+}
